@@ -1,4 +1,4 @@
-<h1 align="center">Sude ALAÇATI</h1>
+<h1 align="center">𝐒𝐮𝐝𝐞 𝐀𝐋𝐀Ç𝐀𝐓𝐈</h1>
 
 <p align="center">
  <a href="https://discord.com/users/749662028083494994" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
