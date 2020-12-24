@@ -13,8 +13,7 @@ You can follow me on these platforms to get more information about me and follow
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/44yjdosuof01gqazwf50rua3y)
 
-![Sudis's github stats](https://github-readme-stats.vercel.app/api?username=sudis&show_icons=true&theme=radical&title_color=FF9DD9&text_color=FF9DD9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudis&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/sudis)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudis&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudis&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/anuraghazra/github-readme-stats)
 
 
