@@ -9,9 +9,9 @@
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
 
-## Spotify Playing Now:
+## Spotify Playing Now: 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hojimymph0082cs92xwdqj74y)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/44yjdosuof01gqazwf50rua3y)
 
 ![Pixelable github stats](https://github-readme-stats.vercel.app/api?username=sudis&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 ![Pixelable](https://github-readme-stats.vercel.app/api/top-langs/?username=sudis&theme=dark&hide_border=true&layout=compact)
