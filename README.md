@@ -13,6 +13,6 @@
 ## 𝐏𝐞𝐰𝐧𝐞𝐠𝐨 𝐝𝐧𝐢𝐚 𝐰𝐬𝐳𝐲𝐬𝐭𝐤𝐨 𝐛ę𝐝𝐳𝐢𝐞 𝐝𝐨𝐛𝐫𝐳𝐞.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudis&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudis&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudis&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/sudis)
 
 
